@@ -67,5 +67,6 @@ public class Main {
                 avgSearchTime, avgSearchOperations);
         System.out.printf("Delete - Avg time: %.2f ns, Avg operations: %.2f\n",
                 avgDeleteTime, avgDeleteOperations);
+        
     }
 }
